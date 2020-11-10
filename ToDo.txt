@@ -1,0 +1,15 @@
+- Add tags
+- Add users (admin, pubisher, etc.)
+- Add comments
+- Add search function
+- Add forum
+- Add support for adding images to tutorials
+- Add code block formatting support
+- Add related posts
+- Add an interactive coding "notebook" that the publisher can insert into their posts. For example, the publisher talks about a coding concept and shows some code for it, the reader can interact with the notebook that has a programming environment in order to test and solidify the concepts
+- Add SEO-Friendly urls
+
+Questions:
+- Should there be drag and drop options for making posts/tutorials?
+- How will tutorials be saved in the database?
+- What technologies are required?

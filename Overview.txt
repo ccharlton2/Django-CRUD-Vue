@@ -1,0 +1,4 @@
+1. Setup Django project with a PostgreSQL client
+2. Create a REST API app and add it with teh Django REST framework
+3. Define the data model and migrate it to the database
+4. Write the API views and define Routes for handling all CRUD operations
