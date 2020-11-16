@@ -10,6 +10,6 @@
 - Add SEO-Friendly urls
 
 Questions:
-- Should there be drag and drop options for making posts/tutorials?
+- Should there be drag and drop options for making posts/tutorials? (https://github.com/kutlugsahin/vue-smooth-dnd)
 - How will tutorials be saved in the database?
 - What technologies are required?
