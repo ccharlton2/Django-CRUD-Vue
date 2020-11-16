@@ -1,6 +1,8 @@
 - Add tags
+- Add profanity filter to posts
 - Add users (admin, pubisher, etc.)
-- Add comments
+- Add a review process for each turorial a user tries to publish before it is made public
+- Add the ability for users to comment on posts (profanity filter)
 - Add search function
 - Add forum
 - Add support for adding images to tutorials
