@@ -1,3 +1,4 @@
+- Configure http requests to run over https
 - Add tags
 - Add profanity filter to posts
 - Add users (admin, pubisher, etc.)
