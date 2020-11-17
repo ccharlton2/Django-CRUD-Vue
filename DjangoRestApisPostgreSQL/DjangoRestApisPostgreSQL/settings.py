@@ -39,10 +39,12 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Django REST framework
     'rest_framework',
-    # Tutorials application 
-    'tutorials.apps.TutorialsConfig',
     # CORS
     'corsheaders',
+    # Tutorials application
+    'tutorials.apps.TutorialsConfig',
+    # Users application
+    'users.apps.UsersConfig',
 ]
 
 MIDDLEWARE = [
@@ -93,6 +95,7 @@ DATABASES = {
     }
 }
 
+AUTH_USER_MODEL = 'users.MyUser'
 
 # Password validation
 # https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators

@@ -1,0 +1,4 @@
+1 - Extend the Django User Model
+2 - Make a permissions.py file that lists a users permissions
+3 - Make a Serializer based on based on the user submissions model
+4 - Make the ViewSet
